@@ -1,6 +1,7 @@
 <h1 align="center">👨‍💻 Machine Learning Explorer | Aspiring Data Scientist</h1>
 <h3 align="center">✨ A Machine Learning Engineer | Turning Data into Magic 🌟</h3>
 
+![Lets Code](https://github.com/BapakmuLah/Image-Folder/blob/a37f8e92320f12de49e461ed14e16c9529515d4a/Anime-coding-aesthetic.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bapakmulah&label=Profile%20views&color=0e75b6&style=flat" alt="bapakmulah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bapakmulah" alt="bapakmulah" /></a> </p>
