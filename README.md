@@ -1,21 +1,19 @@
-<img alt='banner' height=500 src='https://github.com/BapakmuLah/Image-Folder/blob/ff193cc92f96d65389728df5635f1068c7e83459/banner1%20.jpeg'>
+![Banner](https://github.com/BapakmuLah/Image-Folder/blob/ff193cc92f96d65389728df5635f1068c7e83459/banner1%20.jpeg)
+
 <h1 align="center">👨‍💻 Machine Learning Explorer | Aspiring Data Scientist</h1>
 <h3 align="center">✨ A Machine Learning Engineer | Turning Data into Magic 🌟</h3>
 
-<img alt='coding' width=400 src='https://github.com/BapakmuLah/Image-Folder/blob/a37f8e92320f12de49e461ed14e16c9529515d4a/Anime-coding-aesthetic.jpg'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bapakmulah&label=Profile%20views&color=0e75b6&style=flat" alt="bapakmulah" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bapakmulah" alt="bapakmulah" /></a> </p>
-
+<img alt='coding' align='right' width=380 src='https://github.com/BapakmuLah/Image-Folder/blob/a37f8e92320f12de49e461ed14e16c9529515d4a/Anime-coding-aesthetic.jpg'>
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI**
 
-- 💬 Ask me about **Machine Learning , Tensorflow**
+- 💬 Ask me about **Machine Learning , Data Science , Tensorflow**
 
 - 📫 How to reach me **aliipa16@gmail.com**
 
 - ⚡ Fun fact **I'm Swifties**
-
+  
+- 💻 Crafting the Future, One Line of Code at a Time 🧠📈
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/aliipa16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliipa16" height="30" width="40" /></a>
