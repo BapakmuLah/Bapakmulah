@@ -1,5 +1,3 @@
-![Banner](https://github.com/BapakmuLah/Image-Folder/blob/ff193cc92f96d65389728df5635f1068c7e83459/banner1%20.jpeg)
-
 <h1 align="center">👨‍💻 Machine Learning Explorer | Aspiring Data Scientist</h1>
 <h3 align="center">✨ A Machine Learning Engineer | Turning Data into Magic 🌟</h3>
 
