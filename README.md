@@ -12,6 +12,9 @@
 - ⚡ Fun fact **I'm Swifties**
   
 - 💻 Crafting the Future, One Line of Code at a Time 🧠📈
+  
+- 👨‍💻 Coding Till I Die 💀
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/aliipa16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliipa16" height="30" width="40" /></a>
