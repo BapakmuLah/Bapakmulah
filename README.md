@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aliipa16@gmail.com**
 
-- ⚡ Fun fact **I'm Swifties**
+- ⚡ Fun fact **I'm Human**
   
 - 💻 Crafting the Future, One Line of Code at a Time 🧠📈
   
