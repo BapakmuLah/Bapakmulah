@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning , Data Science , Tensorflow**
 
-- 📫 How to reach me **aliipa16@gmail.com**
+- 📫 How to reach me **Currently Maintenance**
 
 - ⚡ Fun fact **I'm Human**
   
