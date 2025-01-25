@@ -5,7 +5,7 @@
 <img alt='coding' align='right' width=380 src='https://github.com/BapakmuLah/Image-Folder/blob/a37f8e92320f12de49e461ed14e16c9529515d4a/Anime-coding-aesthetic.jpg'>
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI**
 
-- 💬 Ask me about **Machine Learning , Data Science , Tensorflow**
+- 💬 Ask me about **Machine Learning , Data Science , AI Engineer**
 
 - 📫 How to reach me **Currently Maintenance**
 
