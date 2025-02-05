@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning , Data Science , Artificial Intelligence**
 
-- 📫 How to reach me **@**
+- 📫 How to reach me **@a**
 
 - ⚡ Fun fact **I'm Human**
   
