@@ -13,7 +13,7 @@
   
 - 💻 Crafting the Future, One Line of Code at a Time 🧠📈
   
-- 👨‍💻 Coding Till I Die 💀
+- 👨‍💻 Turning data into magic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
